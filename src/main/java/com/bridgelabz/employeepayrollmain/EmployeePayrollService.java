@@ -22,5 +22,4 @@ public class EmployeePayrollService {
 	{
 		System.out.println("Writing Employee Pay Roll Data \n" + employePayrollList);
 	}
-
 }
